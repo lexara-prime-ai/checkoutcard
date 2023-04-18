@@ -1,7 +1,7 @@
 # checkoutcard
 A simple re usable checkout card
 
-*Live* preview : 
+*Live* preview : https://checkoutcard.onrender.com
 
 *Preview*
 
